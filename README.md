@@ -9,6 +9,11 @@
   One limation with these Crowdfunding campains there is usally different tier rewards but we can only guess the average donations per backer. We can't know how many backers donated a high amount or how many donated a low abount.
 
 - Additional Tables/Graphs
+  - A table that shows the average length of a campain per catergory or sub catergory
+  - A table that shows how many campains were sc=uccesfful by 200% or more
+  - A table that shows the most popular catergory by country
+ 
+- 
   
 
   
